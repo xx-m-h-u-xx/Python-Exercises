@@ -1,3 +1,5 @@
+# Days Alive Calculator
+
 seconds_in_a_month = 86400
 day = 30
 print("The number of seconds in a 30 day month = ", seconds_in_a_month * day)
